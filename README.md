@@ -65,16 +65,25 @@
 
 ## 🔍 Interests
 
-### 🔐 Pentesting
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="50%" style="padding-right: 15px;">
 
-### 💻 Backend Development
+## 🔐 Pentesting
 
-### 🏗️ Software Architecture
+## 💻 Backend Dev
 
-### 🌐 Distributed Systems
+## 📊 Data Science
 
-### 🧠 Artificial Intelligence
+</td>
+<td valign="top" width="50%" style="padding-left: 15px;">
 
-### 🎮 GameDev & Minecraft
+## 🌐 Networks
 
-### 🔌 Plugin and mod development
+## 🧠 AI
+
+## 🎮 Game Dev
+
+</td>
+</tr>
+</table>
