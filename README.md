@@ -32,7 +32,7 @@
 
 ## 📫 Como me encontrar
 
-- 📧 Email: [seuemail@exemplo.com](mailto:inaciodinucci@gmail.com)
+- 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
 
 ## 🔍 Interesses
 
