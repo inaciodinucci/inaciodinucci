@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👨‍💻 Sobre mim
 
-<!--
-**inaciodinucci/inaciodinucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Sou **Desenvolvedor Back-End**
+- 🔭 Atualmente trabalho com **Java**, **Python** e **JavaScript**
+- 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em desenvolvimento web e backend
+- 📚 Busco constantemente me especializar em arquitetura de software e boas práticas de programação
 
-Here are some ideas to get you started:
+## 🛠️ Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens de Programação
+
+| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![JavaScript](https://skillicons.dev/icons?i=js) |
+| --------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| Java                                          | Python                                            | JavaScript                                        |
+
+### Frameworks & Bibliotecas
+
+| ![Spring](https://skillicons.dev/icons?i=spring) | ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
+| ------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------- |
+| Spring                                           | React                                           | Node.js                                           |
+
+### Banco de Dados & Ferramentas
+
+| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ---------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
+| MySQL                                          | Git                                          | Docker                                           |
+
+## 📊 Estatísticas do GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaciodinucci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 📫 Como me encontrar
+
+- 📧 Email: [seuemail@exemplo.com](mailto:inaciodinucci@gmail.com)
+
+## 🔍 Interesses
+
+- Desenvolvimento Backend
+- Arquitetura de Software
+- Sistemas Distribuídos
+- Inteligência Artificial
+- GameDev
