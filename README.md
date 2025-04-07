@@ -10,7 +10,8 @@
 
 ### 📫 How to reach me
 
-### 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Gmail:  [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
+### <img src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-77ljf1sd.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Instagram: [@inaciodinucci](https://www.instagram.com/inaciodinucci/) 
 
 </div>
 
