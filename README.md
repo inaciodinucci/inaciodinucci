@@ -4,7 +4,7 @@
 
   - 💼 I'm a **Back-End Developer** and **Cybersecurity** student
   - 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
-  - 🌱 Always learning and improving my skills in web and backend development
+  - 🌱 Always learning and improving my skills
   - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
   - 🎮 I develop plugins for **Minecraft** using Java and Bukkit/Spigot/Paper API
 
