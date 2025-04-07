@@ -38,9 +38,9 @@
 
 ### GameDev
 
-| <img src="https://skillicons.dev/icons?i=unrealengine" width="48"> | <img src="https://skillicons.dev/icons?i=unity" width="48"> | <img src="https://skillicons.dev/icons?i=godot" width="48"> |
-| ------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| Unreal Engine 5                                                     | Unity                                                       | GameMaker                                                    |
+| <img src="https://skillicons.dev/icons?i=unrealengine" width="48"> | <img src="https://skillicons.dev/icons?i=unity" width="48"> | <img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e.ico" width="48" height="48"> |
+| ------------------------------------------------------------------ | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Unreal Engine 5                                                     | Unity                                                       | GameMaker                                                                                                   |
 
 ### Minecraft Development
 
