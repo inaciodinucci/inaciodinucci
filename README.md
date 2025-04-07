@@ -7,7 +7,10 @@
   - 🌱 Always learning and improving my skills in web and backend development
   - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
   - 🎮 I develop plugins for **Minecraft** using Java and Bukkit/Spigot/Paper API
-  - 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
+
+### 📫 How to reach me
+
+### 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
 
 </div>
 
