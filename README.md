@@ -5,6 +5,9 @@
 - 🌱 Always learning and improving my skills in web and backend development
 - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking 
 - 🎮 I develop plugins for **Minecraft** using Java and Bukkit/Spigot/Paper API
+### 📫 How to reach me
+
+- 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
 
 ## 🛠️ Languages and Technologies
 
@@ -26,9 +29,9 @@
 
 ### Databases & Tools
 
-| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) | ![Docker](https://skillicons.dev/icons?i=docker) |
-| ---------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
-| MySQL                                          | Git                                          | Docker                                           |
+| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![Git](https://skillicons.dev/icons?i=git) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------- | ------------------------------------------------ |
+| MySQL                                          | MongoDB                                             | SQLite                                           | Git                                          | Docker                                           |
 
 </td>
 <td valign="top" width="50%">
@@ -59,31 +62,31 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaciodinucci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to reach me
-
-- 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
-
 ## 🔍 Interests
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td valign="top" width="50%" style="padding-right: 15px;">
-
-## 🔐 Pentesting
-
-## 💻 Backend Dev
-
-## 📊 Data Science
-
+<td width="50%" valign="top" align="left">
+<div style="margin: 10px 0;">
+<h3>🔐 Pentesting</h3>
+</div>
+<div style="margin: 10px 0;">
+<h3>💻 Backend Dev</h3>
+</div>
+<div style="margin: 10px 0;">
+<h3>📊 Data Science</h3>
+</div>
 </td>
-<td valign="top" width="50%" style="padding-left: 15px;">
-
-## 🌐 Networks
-
-## 🧠 AI
-
-## 🎮 Game Dev
-
+<td width="50%" valign="top" align="left">
+<div style="margin: 10px 0;">
+<h3>🌐 Networks</h3>
+</div>
+<div style="margin: 10px 0;">
+<h3>🧠 AI & ML</h3>
+</div>
+<div style="margin: 10px 0;">
+<h3>🎮 GameDev</h3>
+</div>
 </td>
 </tr>
 </table>
