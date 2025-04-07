@@ -1,7 +1,7 @@
 # 👨‍💻 Sobre mim
 
 - 💼 Sou **Desenvolvedor Back-End** e estudante de **Cybersecurity**.
-- 🔭 Atualmente trabalho com **Java**, **Python** e **JavaScript**
+- 🔭 Atualmente programo em **Java**, **Python** e **JavaScript**
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em desenvolvimento web e backend
 - 📚 Busco constantemente me especializar em arquitetura de software e boas práticas de programação
 - 🎮 Desenvolvo plugins para **Minecraft** utilizando Java e Bukkit/Spigot/Paper API
