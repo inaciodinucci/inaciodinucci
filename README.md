@@ -1,16 +1,17 @@
-## 👨‍💻 About me
+<div>
+  <h2>👨‍💻 About me</h2>
+  <img align="right" width="290" height="320" style="margin-bottom: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=l0bpp9x9s2rzxmnlcs7eho8b2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 
-<div style="display: flex;">
-  <ul>
-    <li>💼 I'm a <b>Back-End Developer</b> and <b>Cybersecurity</b> student</li>
-    <li>🔭 Currently skilled with <b>Java</b>, <b>Python</b>, and <b>JavaScript</b></li>
-    <li>🌱 Always learning and improving my skills in web and backend development</li>
-    <li>📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking</li>
-    <li>🎮 I develop plugins for <b>Minecraft</b> using Java and Bukkit/Spigot/Paper API</li>
-    <li>📧 Email: <a href="mailto:inaciodinucci@gmail.com">inaciodinucci@gmail.com</a></li>
-  </ul>
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=l0bpp9x9s2rzxmnlcs7eho8b2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  - 💼 I'm a **Back-End Developer** and **Cybersecurity** student
+  - 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
+  - 🌱 Always learning and improving my skills in web and backend development
+  - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
+  - 🎮 I develop plugins for **Minecraft** using Java and Bukkit/Spigot/Paper API
+  - 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
+
 </div>
+
+<br clear="right"/>
 
 ## 🛠️ Languages and Technologies
 
