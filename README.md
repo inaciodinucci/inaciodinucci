@@ -1,6 +1,6 @@
 # 👨‍💻 About me
 
-- 💼 I'm a **Back-End Developer** and **Cybersecurity** student.
+- 💼 I'm a **Back-End Developer** and **Cybersecurity** student
 - 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
 - 🌱 Always learning and improving my skills in web and backend development
 - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking 
