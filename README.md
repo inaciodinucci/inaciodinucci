@@ -1,30 +1,30 @@
-# 👨‍💻 Sobre mim
+# 👨‍💻 About me
 
-- 💼 Sou **Desenvolvedor Back-End** e estudante de **Cybersecurity**.
-- 🔭 Atualmente programo em **Java**, **Python** e **JavaScript**
-- 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em desenvolvimento web e backend
-- 📚 Busco constantemente me especializar em arquitetura de software e boas práticas de programação
-- 🎮 Desenvolvo plugins para **Minecraft** utilizando Java e Bukkit/Spigot/Paper API
+- 💼 I'm a **Back-End Developer** and **Cybersecurity** student.
+- 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
+- 🌱 Always learning and improving my skills in web and backend development
+- 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking 
+- 🎮 I develop plugins for **Minecraft** using Java and Bukkit/Spigot/Paper API
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Languages and Technologies
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Linguagens de Programação
+### Programming Languages
 
 | ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![TypeScript](https://skillicons.dev/icons?i=ts) |
 | --------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | Java                                          | Python                                            | JavaScript                                        | TypeScript                                        |
 
-### Frameworks & Bibliotecas
+### Frameworks & Libraries
 
 | ![Spring](https://skillicons.dev/icons?i=spring) | ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
 | ------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------- |
 | Spring                                           | React                                           | Node.js                                           |
 
-### Banco de Dados & Ferramentas
+### Databases & Tools
 
 | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) | ![Docker](https://skillicons.dev/icons?i=docker) |
 | ---------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
@@ -45,7 +45,7 @@
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Spigot API                                                                                                               | Bukkit API                                                                                                                                                  | Paper API                                                                                                                                  |
 
-### Sistemas Operacionais
+### Operating Systems
 
 | <img src="https://www.svgrepo.com/show/353640/debian.svg" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png" width="48" height="48"> | <img src="https://cdn-b.saashub.com/images/app/service_logos/21/d0346e7bf600/large.png?1544906410" width="48" height="48"> |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -55,20 +55,20 @@
 </tr>
 </table>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaciodinucci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 
 - 📧 Email: [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
 
-## 🔍 Interesses
+## 🔍 Interests
 
-- Cyber Segurança
-- Desenvolvimento Backend
-- Arquitetura de Software
-- Sistemas Distribuídos
-- Inteligência Artificial
+- Cyber Security
+- Backend Development
+- Software Architecture
+- Distributed Systems
+- Artificial Intelligence
 - GameDev & Minecraft
-- Desenvolvimento de plugins e mods
+- Plugin and mod development
