@@ -65,10 +65,16 @@
 
 ## 🔍 Interests
 
-- Cyber Security
-- Backend Development
-- Software Architecture
-- Distributed Systems
-- Artificial Intelligence
-- GameDev & Minecraft
-- Plugin and mod development
+### 🔐 Pentesting
+
+### 💻 Backend Development
+
+### 🏗️ Software Architecture
+
+### 🌐 Distributed Systems
+
+### 🧠 Artificial Intelligence
+
+### 🎮 GameDev & Minecraft
+
+### 🔌 Plugin and mod development
