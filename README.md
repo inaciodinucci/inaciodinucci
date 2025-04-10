@@ -31,9 +31,9 @@
 
 ### Frameworks & Libraries
 
-| ![Spring](https://skillicons.dev/icons?i=spring) | ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
-| ------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------- |
-| Spring                                           | React                                           | Node.js                                           |
+| ![Spring](https://skillicons.dev/icons?i=spring) | ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Django](https://skillicons.dev/icons?i=django) |
+| ------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------- | -------------------------------------------------|
+| Spring                                           | React                                          | Node.js                                           | Django                                           |
 
 ### Databases & Tools
 
