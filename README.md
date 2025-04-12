@@ -7,7 +7,7 @@
   - 🌱 Always learning and improving my skills
   - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
   - 🎮 I develop plugins for **Minecraft** and i'm currently making my own server!
-
+ 
 ### 📫 How to reach me
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Gmail:  [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
