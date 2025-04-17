@@ -71,7 +71,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaciodinucci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔍 Interests
-
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="50%" valign="top" align="left">
