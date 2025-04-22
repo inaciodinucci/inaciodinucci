@@ -52,7 +52,7 @@
 
 ### Minecraft Development
 
-| <img src="https://www.spigotmc.org/data/attachments/0/47-203d0f00d4b12970bbb76e6e051b3044.jpg" width="48" height="48"> | <img src="https://raw.githubusercontent.com/github/explore/288c84b3a9e3e6e34eec8d401b879c14b2bd7fbc/topics/bukkit/bukkit.png" width="48" height="48"> | <img src="https://docs.papermc.io/assets/images/papermc-logomark-512-f125384f3367cd4d9291ca983fcb7334.png" width="48" height="48"> |
+| <img src="https://www.spigotmc.org/data/attachments/0/47-203d0f00d4b12970bbb76e6e051b3044.jpg" width="48" height="48"> | <img src="https://raw.githubusercontent.com/github/explore/288c84b3a9e3e6e34eec8d401b879c14b2bd7fbc/topics/bukkit/bukkit.png" width="48" height="48"> | <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="48" height="48"> |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Spigot API                                                                                                               | Bukkit API                                                                                                                                                  | Paper API                                                                                                                                  |
 
