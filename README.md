@@ -3,7 +3,7 @@
   <img align="right" width="290" height="320" style="margin-bottom: 20px;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=l0bpp9x9s2rzxmnlcs7eho8b2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
   
   - 🌐 At the moment, i'm working as **Junior Network Analyst** at [ClickEnter](https://www.clickenter.com.br/) 
-  - 💼 I'm a **Back-End Developer** and **Cybersecurity** student  
+  - 💼 I'm a **Back-End Developer** and **Cybersecurity** student 
   - 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
   - 🌱 Always learning and improving my skills
   - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
