@@ -12,7 +12,7 @@
 ### 📫 How to reach me
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Gmail:  [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
-### <img src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-77ljf1sd.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Instagram: [@inaciodinucci](https://www.instagram.com/inaciodinucci/) 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/960px-Instagram-Icon.png?_=20230822013318" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Instagram: [@inaciodinucci](https://www.instagram.com/inaciodinucci/) 
 
 </div>
  
@@ -59,7 +59,7 @@
 
 ### Operating Systems
 
-| <img src="https://www.svgrepo.com/show/353640/debian.svg" width="48" height="48"> | <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="256" height="256" alt="ubuntu grátis ícone" title="ubuntu grátis ícone"> width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png" width="48" height="48"> | <img src="https://cdn-b.saashub.com/images/app/service_logos/21/d0346e7bf600/large.png?1544906410" width="48" height="48"> |
+| <img src="https://www.svgrepo.com/show/353640/debian.svg" width="48" height="48"> | <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="48" height="48" alt="ubuntu grátis ícone" title="ubuntu grátis ícone" width="48" height="48"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" width="48" height="48"> | <img src="https://cdn-b.saashub.com/images/app/service_logos/21/d0346e7bf600/large.png?1544906410" width="48" height="48"> |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Debian                                                                             | Ubuntu                                                                                                                                       | <div align="center">Kali</div>                                                                                                                                  | BlackArch                                                                               |
 
