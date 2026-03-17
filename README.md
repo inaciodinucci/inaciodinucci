@@ -7,7 +7,6 @@
   - 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
   - 🌱 Always learning and improving my skills
   - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
-  - 🎮 I develop plugins for **Minecraft** and i'm currently making my own server! 
  
 ### 📫 How to reach me
 
