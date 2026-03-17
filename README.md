@@ -6,7 +6,7 @@
   - 💼 I'm a **Back-End Developer** and **Cybersecurity** student 
   - 🔭 Currently skilled with **Java**, **Python**, and **JavaScript**
   - 🌱 Always learning and improving my skills
-  - 📚 Passionate about expanding my knowledge in cybersecurity and ethical hacking
+  - 📚 My goal is to help humanity build an ethical and remarkable AGI.
  
 ### 📫 How to reach me
 
