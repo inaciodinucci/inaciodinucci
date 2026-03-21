@@ -4,7 +4,7 @@
   
   - 🌐 At the moment, i'm working as **Junior Network Analyst** at [ClickEnter](https://www.clickenter.com.br/) 
   - 🔭 Currently learning **Machine Learning**, **Back-End Developing** and **Cybersecurity**
-  - 💼 My best programming skills are: **Java**, **Python**, and **JavaScript**
+  - 💼 My best programming language skills are: **Java**, **Python**, and **JavaScript**
   - 📚 My goal is to help humanity build an ethical and remarkable AGI.
  
 ### 📫 How to reach me
