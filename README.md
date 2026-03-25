@@ -7,7 +7,7 @@
   - 💼 My best programming language skills are: **Java**, **Python**, and **JavaScript**
   - 📚 My goal is to help humanity build an ethical and remarkable AGI.
  
-### 📫 How to reach me
+### 📫 How to reach me 
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Gmail:  [inaciodinucci@gmail.com](mailto:inaciodinucci@gmail.com)
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/960px-Instagram-Icon.png?_=20230822013318" width="20" height="20" style="vertical-align: middle; margin-right: 5px;" /> Instagram: [@inaciodinucci](https://www.instagram.com/inaciodinucci/) 
